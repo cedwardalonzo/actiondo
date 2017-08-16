@@ -2003,7 +2003,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #439aea;
+				background-color: #0dff6a;
 			}
 
 /* Form */
@@ -4231,4 +4231,12 @@
 
 		#three p{
 			font-family: 'Ubuntu', sans-serif;
+		}
+
+		#one h2, #three h2, #footer h2{
+			color: #0AA847 !important;
+		}
+
+		#three hr{
+			border-bottom-color: #0dff6a !important;
 		}
